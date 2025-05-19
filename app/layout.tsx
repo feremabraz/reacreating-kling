@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Kickstart Basic',
-  description: 'Template for kickstarting toy projects and ideas.',
+  title: 'Recreating Kling UI',
+  description: 'Recreating the Kling UI from the Kling AI website.',
 };
 
 export default function RootLayout({

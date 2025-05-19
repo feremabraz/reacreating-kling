@@ -1,12 +1,8 @@
-# Kickstart Basic
+# Recreating Kling UI
 
-Next.js template with the typical dependencies that I prefer.
-
-I use it to kickstart toy projects and ideas.
+Recreating the Kling UI from the Kling AI website.
 
 ![Preview](README.png)
-
-For a 3D project, see [Kickstart Three.js](https://github.com/feremabraz/kickstart-threejs).
 
 ## Content
 
@@ -15,4 +11,3 @@ For a 3D project, see [Kickstart Three.js](https://github.com/feremabraz/kicksta
 - Zod
 - Biome
 - Shadcn lint fixes according to Biome.
-
