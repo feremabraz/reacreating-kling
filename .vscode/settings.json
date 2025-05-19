@@ -1,0 +1,51 @@
+{
+  "piny.project_settings": {
+    "open-pages": ["index.html"],
+    "ai-project-brief": null,
+    "tw-external-config": {
+      "external_source_url": "app/globals.css"
+    },
+    "source-folders": ["app", "components"],
+    "preview-url": "http://localhost:3000",
+    "app-routes": {
+      "routes": ["/", "/signin"],
+      "current_route": "/signin"
+    },
+    "recent-classes": [
+      "s",
+      "u",
+      "l",
+      "o",
+      "r",
+      "k",
+      "c",
+      "a",
+      "b",
+      "6",
+      "-",
+      "y",
+      "p",
+      ":",
+      "d",
+      "m"
+    ],
+    "urls": {
+      "index.html": {
+        "open-page-views": [
+          {
+            "w": 1044,
+            "h": 0
+          }
+        ]
+      }
+    },
+    "component-settings": {
+      "app/page.tsx:::HomePage": {
+        "route": "/signin"
+      },
+      "components/ui/accordion.tsx:::Accordion": {
+        "route": "/"
+      }
+    }
+  }
+}
